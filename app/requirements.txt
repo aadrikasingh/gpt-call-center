@@ -1,0 +1,8 @@
+streamlit
+langchain
+faiss-cpu
+openai
+tiktoken
+pillow
+tenacity
+sentence_transformers

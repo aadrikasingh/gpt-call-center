@@ -1,0 +1,27 @@
+{  
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",  
+  "contentVersion": "1.0.0.0",  
+  "parameters": {
+    "location": {
+      "value": "eastus"
+    },
+    "principalId": {
+      "value": "1b6d5b5b-495c-4d86-b82a-315143dce677"
+    },
+    "resourceGroupName": {  
+      "value": "rg-gpt-call-center"  
+    }, 
+    "storageAccountName": {  
+      "value": "saccgpt0001"  
+    },  
+    "speechServiceName": {  
+      "value": "speechservicecc0001"  
+    },  
+    "searchServiceName": {  
+      "value": "searchservicecc0001"  
+    },  
+    "openAIServiceName": {  
+      "value": "oaiservice0001"  
+    } 
+  }  
+}
